@@ -19,6 +19,7 @@ public class JavaApplication1 {
         // 
         String Fred;
         Fred = "stringieeeee";
+        String two;
     }
     
 }
